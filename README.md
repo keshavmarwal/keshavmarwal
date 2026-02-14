@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keshav
-- 👀 I’m interested in Android Develpment 
-- 🌱 I’m currently learning CMP and  KMP for making hybrid App's and i also learning DSA and solving problems
+- 👀 I’m interested in futurestic Web design and development 
+- 🌱 I’m currently learning full stack development and i also learning DSA and solving problems.
 
 - 📫 How to reach me keshavsharm676@gmail.com
 - 😄 Pronouns: Keshav
